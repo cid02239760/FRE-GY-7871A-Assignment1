@@ -178,6 +178,11 @@ corroborating a finding on the other.
 
 ## 6. Trends, 2021–2025
 
+![Figure 1. Tone by quarter, 2021-2025, by form type, with the VIX](outputs/figure1.png)
+
+*Figure 1. Both proportional measures by quarter, separately by form type, with the VIX behind
+them.*
+
 Figure 1 plots both proportional measures by quarter, separately by form type, with the VIX behind
 them. The composition corrections described in §4 are applied before anything is described:
 form types separated, and the within-firm test reported alongside the aggregate one.
