@@ -130,12 +130,48 @@ regressors of interest are standardised, so coefficients read per standard devia
 | 10-Q | 1,158 | 2.18 | 1.07 | 1.95 | 0.66 |
 | All | 1,542 | 2.28 | 0.98 | 2.00 | 0.60 |
 
-**Table 3 (summary). Concentration of each list**
+**Table 3a. Concentration of each list**
 
 | List | Size | Words observed | Top 10 share | Top 30 share |
 |---|---:|---:|---:|---:|
 | Fin-Neg | 2,355 | 1,565 | 27.4% | 46.1% |
 | Fin-Unc | 297 | 243 | 78.1% | 92.4% |
+
+**Table 3b. The 30 most frequent words on each list**, with each word's share of that list's
+total count across the sample.
+
+| # | Fin-Neg word | share | Fin-Unc word | share |
+|---:|---|---:|---|---:|
+| 1 | LOSS | 4.77% | MAY | 37.33% |
+| 2 | ADVERSELY | 4.68% | COULD | 20.64% |
+| 3 | ADVERSE | 2.89% | RISK | 5.05% |
+| 4 | CLAIMS | 2.71% | RISKS | 4.99% |
+| 5 | HARM | 2.17% | BELIEVE | 3.13% |
+| 6 | AGAINST | 2.14% | APPROXIMATELY | 1.81% |
+| 7 | UNABLE | 2.13% | ASSUMPTIONS | 1.31% |
+| 8 | FAILURE | 2.03% | FLUCTUATIONS | 1.30% |
+| 9 | LOSSES | 1.97% | MIGHT | 1.24% |
+| 10 | LITIGATION | 1.89% | UNCERTAINTIES | 1.23% |
+| 11 | FAIL | 1.51% | POSSIBLE | 1.13% |
+| 12 | NEGATIVELY | 1.31% | DEPEND | 1.04% |
+| 13 | DIFFICULT | 1.30% | PREDICT | 1.00% |
+| 14 | CRITICAL | 1.14% | ANTICIPATED | 0.98% |
+| 15 | PENALTIES | 1.11% | UNCERTAIN | 0.93% |
+| 16 | NEGATIVE | 1.06% | ANTICIPATE | 0.88% |
+| 17 | DELAYS | 1.04% | UNCERTAINTY | 0.88% |
+| 18 | DECLINE | 1.02% | INTANGIBLE | 0.85% |
+| 19 | DELAY | 0.93% | DIFFER | 0.78% |
+| 20 | LIMITATIONS | 0.87% | DEPENDS | 0.77% |
+| 21 | CHALLENGES | 0.86% | VOLATILITY | 0.76% |
+| 22 | RESTATED | 0.84% | EXPOSURE | 0.68% |
+| 23 | HARMED | 0.80% | DEPENDENT | 0.58% |
+| 24 | FINES | 0.79% | PENDING | 0.55% |
+| 25 | DISRUPTIONS | 0.78% | FLUCTUATE | 0.50% |
+| 26 | DAMAGES | 0.73% | VARY | 0.49% |
+| 27 | IMPAIRMENT | 0.69% | CONTINGENCIES | 0.40% |
+| 28 | BREACH | 0.66% | REVISED | 0.40% |
+| 29 | UNAUTHORIZED | 0.66% | CONTINGENT | 0.39% |
+| 30 | INVESTIGATIONS | 0.65% | DEPENDING | 0.37% |
 
 ### Q1. What is each measure actually made of?
 
